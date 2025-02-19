@@ -25,11 +25,11 @@ This project is an **IPL Data Analysis Tool** that allows users to explore and a
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ipl-data-analysis.git
+   git clone https://github.com/rohitsharma2610/ipl-team-data.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ipl-data-analysis
+   cd ipl-team-data
    ```
 3. Install dependencies:
    ```bash
